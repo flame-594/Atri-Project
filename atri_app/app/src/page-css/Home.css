@@ -1,0 +1,2015 @@
+.p-Home.Navbar {
+padding-top: 20px;
+padding-bottom: 30px;
+font-size: 18px;
+color: #696969;
+font-family: DM Sans;
+}
+.p-Home.NavbarFlex {
+display: flex;
+align-items: center;
+justify-content: space-around;
+border-color: ;
+border-width: ;
+border-style: none;
+}
+.p-Home.NavbarFlex1 {
+display: flex;
+column-gap: 30px;
+align-items: center;
+border-width: ;
+margin-bottom: 0px;
+padding-right: 15px;
+padding-left: 15px;
+}
+.p-Home.NavbarLinks {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.NavbarFlex2 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.NavbarDiv {
+display: none;
+border-width: ;
+border-color: ;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 15px;
+}
+.p-Home.Flex67 {
+display: flex;
+}
+.p-Home.Home {
+padding-top: ;
+padding-bottom: ;
+font-family: DM Sans;
+font-size: 40px;
+}
+.p-Home.HomeFlex {
+display: flex;
+}
+.p-Home.HomeFlex1 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+row-gap: 20px;
+padding-top: 100px;
+padding-left: 150px;
+}
+.p-Home.HomrFlex3 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.HomeFlex2 {
+display: flex;
+background-color: #ff7629;
+}
+.p-Home.Category {
+padding-top: 150px;
+padding-bottom: 100px;
+font-family: DM Sans;
+}
+.p-Home.CategoryMenuFlex {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 40px;
+padding-left: ;
+padding-right: ;
+font-size: 17px;
+font-family: DM Sans;
+}
+.p-Home.CategoryButtons {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.CategoryMenuOptions {
+display: flex;
+padding-left: ;
+padding-right: ;
+column-gap: 30px;
+}
+.p-Home.OptionsFlex1 {
+display: flex;
+column-gap: 30px;
+padding-right: ;
+}
+.p-Home.Option1 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 20px;
+padding-top: 40px;
+padding-bottom: 40px;
+border-radius: 15px;
+border-style: solid;
+border-color: #cecece;
+}
+.p-Home.Option2 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 20px;
+padding-top: 40px;
+padding-bottom: 40px;
+border-radius: 15px;
+border-style: solid;
+border-color: #cecece;
+}
+.p-Home.OptionsFlex2 {
+display: flex;
+column-gap: 30px;
+padding-right: ;
+}
+.p-Home.Option3 {
+display: flex;
+border-color: #cecece;
+flex-direction: column;
+align-items: center;
+row-gap: 20px;
+padding-top: 40px;
+padding-bottom: 40px;
+border-radius: 15px;
+border-style: solid;
+}
+.p-Home.Option4 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 20px;
+border-radius: 15px;
+border-style: solid;
+border-color: #cecece;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+.p-Home.About {
+;
+}
+.p-Home.AboutUs {
+display: flex;
+border-width: 6px;
+background-color: #fff9f3;
+padding-top: 150px;
+padding-left: 150px;
+font-family: DM Sans;
+font-size: 16px;
+box-sizing: content-box;
+align-items: flex-start;
+justify-content: center;
+height: ;
+}
+.p-Home.AboutFlex2 {
+display: flex;
+align-items: flex-start;
+flex-direction: column;
+width: 50%;
+row-gap: 25px;
+padding-top: 100px;
+color: #8d8d8d;
+}
+.p-Home.AboutFlex7 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.AboutFlex1 {
+display: flex;
+align-items: center;
+width: 50%;
+padding-bottom: 200px;
+}
+.p-Home.AboutFlex3 {
+display: flex;
+background-color: #ffffff;
+flex-direction: column;
+padding-left: 50px;
+padding-right: 20px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 25px;
+row-gap: 20px;
+position: relative;
+top: 200px;
+right: 300px;
+box-sizing: border-box;
+color: #8d8d8d;
+margin-right: ;
+width: ;
+background-position-y: ;
+background-position-x: ;
+float: none;
+clear: none;
+bottom: 200px;
+}
+.p-Home.AboutFlex4 {
+display: flex;
+column-gap: 20px;
+width: 350px;
+}
+.p-Home.AboutFlex5 {
+display: flex;
+align-items: stretch;
+column-gap: 20px;
+width: 350px;
+}
+.p-Home.AboutFlex6 {
+display: flex;
+column-gap: 20px;
+width: 350px;
+overflow: visible;
+}
+.p-Home.Menu {
+padding-top: 150px;
+font-family: DM Sans;
+font-size: 16px;
+}
+.p-Home.MenuFlex1 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+align-items: center;
+justify-content: center;
+font-family: DM Sans;
+font-size: 16px;
+}
+.p-Home.MenuFlex2 {
+display: flex;
+row-gap: 30px;
+flex-direction: column;
+padding-top: ;
+padding-bottom: ;
+text-align: center;
+font-family: DM Sans;
+font-size: 16px;
+}
+.p-Home.MenuFlex3 {
+display: flex;
+column-gap: 25px;
+padding-left: ;
+padding-right: ;
+}
+.p-Home.MenuFlex6 {
+display: flex;
+column-gap: 20px;
+padding-left: ;
+padding-right: ;
+}
+.p-Home.ItemFlex1 {
+display: flex;
+flex-direction: column;
+align-items: center;
+column-gap: ;
+row-gap: 10px;
+padding-top: ;
+padding-bottom: ;
+}
+.p-Home.ItemPrice1 {
+display: flex;
+padding-left: 10px;
+padding-right: 10px;
+background-color: #fffbfb;
+border-radius: 15px;
+padding-top: 10px;
+padding-bottom: 10px;
+position: relative;
+left: 60px;
+top: 60px;
+}
+.p-Home.ItemFlex2 {
+display: flex;
+flex-direction: column;
+align-items: center;
+column-gap: ;
+row-gap: 10px;
+padding-top: ;
+padding-bottom: ;
+}
+.p-Home.ItemPrice2 {
+display: flex;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-left: 10px;
+border-radius: 15px;
+background-color: #fffbfb;
+top: 60px;
+left: 60px;
+position: relative;
+}
+.p-Home.MenuFlex7 {
+display: flex;
+column-gap: 20px;
+padding-left: ;
+padding-right: ;
+}
+.p-Home.ItemFlex3 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+padding-top: ;
+padding-bottom: ;
+}
+.p-Home.ItemPrice3 {
+display: flex;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-left: 10px;
+border-radius: 15px;
+background-color: #fffbfb;
+top: 60px;
+left: 60px;
+position: relative;
+}
+.p-Home.ItemFlex4 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+padding-bottom: ;
+padding-top: ;
+}
+.p-Home.ItemPrice4 {
+display: flex;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-left: 10px;
+border-radius: 15px;
+background-color: #fffbfb;
+position: relative;
+top: 60px;
+left: 60px;
+}
+.p-Home.MenuFlex4 {
+display: flex;
+column-gap: 25px;
+padding-left: ;
+padding-right: 2px;
+}
+.p-Home.MenuFlex8 {
+display: flex;
+column-gap: 20px;
+padding-left: ;
+padding-right: ;
+}
+.p-Home.ItemFlex5 {
+display: flex;
+row-gap: 10px;
+flex-direction: column;
+align-items: center;
+padding-top: ;
+padding-bottom: ;
+}
+.p-Home.ItemPrice5 {
+display: flex;
+position: relative;
+top: 60px;
+left: 60px;
+background-color: #fffbfb;
+border-radius: 15px;
+padding-bottom: 10px;
+padding-top: 10px;
+padding-right: 10px;
+padding-left: 10px;
+}
+.p-Home.ItemFlex {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+padding-top: ;
+padding-bottom: ;
+}
+.p-Home.ItemPrice6 {
+display: flex;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-left: 10px;
+border-radius: 15px;
+background-color: #fffbfb;
+top: 60px;
+left: 60px;
+position: relative;
+}
+.p-Home.MenuFlex9 {
+display: flex;
+column-gap: 20px;
+padding-left: ;
+padding-right: ;
+}
+.p-Home.ItemFlex7 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+padding-top: ;
+padding-bottom: ;
+}
+.p-Home.ItemPrice7 {
+display: flex;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-left: 10px;
+border-radius: 15px;
+background-color: #fffbfb;
+position: relative;
+top: 60px;
+left: 60px;
+}
+.p-Home.ItemFlex8 {
+display: flex;
+flex-direction: column;
+align-items: center;
+row-gap: 10px;
+padding-bottom: ;
+padding-top: ;
+}
+.p-Home.ItemPrice8 {
+display: flex;
+top: 60px;
+left: 60px;
+position: relative;
+background-color: #fffbfb;
+border-radius: 15px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-left: 10px;
+}
+.p-Home.MenuFlex5 {
+display: flex;
+column-gap: 30px;
+justify-content: center;
+padding-bottom: 200px;
+}
+.p-Home.BurgerSpan {
+;
+}
+.p-Home.Burger_Span {
+display: flex;
+border-width: ;
+border-color: ;
+border-style: none;
+font-family: DM Sans;
+font-size: 16px;
+color: #fffafa;
+}
+.p-Home.SpanFlex1 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+row-gap: 33px;
+padding-top: 90px;
+padding-bottom: 100px;
+padding-left: 150px;
+box-sizing: border-box;
+background-color: #ff7629;
+}
+.p-Home.SpanFlex2 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Client {
+;
+}
+.p-Home.Clients {
+padding-top: 150px;
+padding-bottom: 150px;
+font-family: DM Sans;
+font-size: 16px;
+border-color: #de7a7a;
+}
+.p-Home.ClientsFlex1 {
+display: flex;
+align-items: center;
+flex-direction: column;
+row-gap: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
+border-radius: ;
+border-color: ;
+border-width: ;
+border-style: none;
+box-sizing: content-box;
+padding-left: ;
+}
+.p-Home.ClientsFlex2 {
+display: flex;
+border-style: solid;
+border-color: ;
+border-width: 0px;
+align-items: center;
+justify-content: center;
+column-gap: 50px;
+}
+.p-Home.ClientsFlex3 {
+display: flex;
+border-color: #d5d5d5;
+border-radius: 25px;
+padding-top: 50px;
+padding-right: 50px;
+padding-left: 50px;
+padding-bottom: 40px;
+box-sizing: border-box;
+width: 50%;
+row-gap: 10px;
+flex-direction: column;
+border-width: ;
+border-style: solid;
+}
+.p-Home.ClientFlex3 {
+display: flex;
+column-gap: 25px;
+align-items: center;
+padding-top: 10px;
+}
+.p-Home.ClientFlex4 {
+display: flex;
+flex-direction: column;
+row-gap: 2px;
+}
+.p-Home.Flex13 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Articles {
+padding-top: 150px;
+padding-left: 100px;
+padding-bottom: 100px;
+padding-right: 100px;
+background-color: #fff9f3;
+box-sizing: border-box;
+font-family: DM Sans;
+font-size: 16px;
+}
+.p-Home.ArticlesFlexBox {
+display: flex;
+flex-direction: column;
+padding-bottom: ;
+padding-right: ;
+font-size: 16px;
+font-family: DM Sans;
+}
+.p-Home.ArticleFlexHeading {
+display: flex;
+width: 100%;
+align-items: center;
+justify-content: space-between;
+padding-bottom: 30px;
+}
+.p-Home.ArticlesSection {
+display: flex;
+column-gap: 30px;
+padding-right: ;
+padding-bottom: ;
+font-family: DM Sans;
+font-size: 15px;
+}
+.p-Home.ArticleFlex1 {
+display: flex;
+width: 50%;
+flex-direction: column;
+row-gap: 10px;
+border-radius: 35px;
+background-color: #fffefe;
+border-style: none;
+}
+.p-Home.ArticleFlex2 {
+display: flex;
+flex-direction: column;
+column-gap: ;
+width: 60%;
+padding-right: ;
+margin-bottom: 0px;
+padding-bottom: ;
+row-gap: 30px;
+}
+.p-Home.ArticleFlexBox1 {
+display: flex;
+align-items: center;
+justify-content: center;
+column-gap: 30px;
+padding-right: ;
+padding-bottom: ;
+width: ;
+}
+.p-Home.ArticleFlex3 {
+display: flex;
+width: 40%;
+flex-direction: column;
+row-gap: 10px;
+padding-bottom: 20px;
+border-radius: 35px;
+background-color: #fffefe;
+border-style: none;
+}
+.p-Home.ArticleFlex4 {
+display: flex;
+width: 40%;
+flex-direction: column;
+row-gap: 10px;
+padding-bottom: 20px;
+border-radius: 35px;
+background-color: #fffefe;
+border-style: none;
+}
+.p-Home.ArticleFlexBox2 {
+display: flex;
+column-gap: 30px;
+align-items: center;
+justify-content: center;
+padding-right: ;
+padding-bottom: ;
+}
+.p-Home.ArticleFlex5 {
+display: flex;
+width: 40%;
+flex-direction: column;
+row-gap: 10px;
+padding-bottom: 20px;
+border-radius: 35px;
+border-style: none;
+background-color: #fffefe;
+}
+.p-Home.ArticleFlex6 {
+display: flex;
+width: 40%;
+flex-direction: column;
+row-gap: 10px;
+padding-bottom: 20px;
+border-radius: 35px;
+border-style: none;
+background-color: #fffefe;
+}
+.p-Home.Booking {
+border-style: none;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+.p-Home.BookingFlexbox {
+display: flex;
+padding-right: ;
+padding-bottom: ;
+}
+.p-Home.BookingFlex1 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+row-gap: 20px;
+width: 50%;
+padding-top: 100px;
+padding-left: 150px;
+padding-bottom: 100px;
+border-style: none;
+}
+.p-Home.ContacFlex1 {
+display: flex;
+column-gap: 25px;
+width: 50%;
+}
+.p-Home.ContactFlex2 {
+display: flex;
+align-items: center;
+justify-content: center;
+column-gap: 25px;
+border-style: none;
+}
+.p-Home.ContactFlex3 {
+display: flex;
+align-items: center;
+justify-content: center;
+column-gap: 25px;
+border-style: none;
+}
+.p-Home.BookingFlex2 {
+display: flex;
+width: 50%;
+padding-top: 100px;
+padding-bottom: 100px;
+align-items: flex-start;
+background-color: #ff7629;
+border-style: none;
+}
+.p-Home.BookingFlex3 {
+display: flex;
+background-color: #ffffff;
+padding-left: 50px;
+margin-top: ;
+padding-right: 50px;
+row-gap: 30px;
+flex-direction: column;
+padding-bottom: 30px;
+position: relative;
+font-size: 18px;
+border-radius: 40px;
+border-style: solid;
+border-color: #d9d4d4;
+right: 140px;
+padding-top: 80px;
+}
+.p-Home.BookingFormFlex4 {
+display: flex;
+column-gap: ;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.BookingFormFlex3 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.FormDate {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.FormSchedule {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.BookingFormFlex2 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.FormPhone {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.FormLocation {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.BookingFormFlex1 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.FormName {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.FormEmail {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.BookingFormMessage {
+display: none;
+}
+.p-Home.Follo {
+;
+}
+.p-Home.Follow {
+background-color: #FFF9F3;
+padding-top: 150px;
+padding-bottom: 150px;
+padding-left: 100px;
+padding-right: 100px;
+align-self: center;
+font-family: DM Sans;
+}
+.p-Home.FollowFlex1 {
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+padding-bottom: 30px;
+width: ;
+}
+.p-Home.FollowFlex2 {
+display: flex;
+column-gap: 30px;
+justify-content: center;
+}
+.p-Home.Flex3 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.FollowFlex3 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+margin-top: ;
+margin-bottom: ;
+padding-bottom: 0px;
+padding-top: 0px;
+border-style: none;
+border-width: 0px;
+}
+.p-Home.FollowFlex5 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.FolowFlex5 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.Footer {
+padding-top: 100px;
+padding-left: 150px;
+padding-right: 150px;
+padding-bottom: 50px;
+font-size: 16px;
+}
+.p-Home.FooterFlex {
+display: flex;
+column-gap: 40px;
+justify-content: space-between;
+font-family: DM Sans;
+font-size: 16px;
+}
+.p-Home.FooterFlex1 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+row-gap: 13px;
+width: 40%;
+}
+.p-Home.RatingFlex {
+display: flex;
+column-gap: 10px;
+}
+.p-Home.InstagramLink3 {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+row-gap: 20px;
+}
+.p-Home.InstagramLinkFlexBox {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.InstagramLinkFlex2 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.InstagramLinkFlex1 {
+display: flex;
+column-gap: 20px;
+}
+.p-Home.FooterFlex2 {
+display: flex;
+}
+.p-Home.PageList {
+display: flex;
+flex-direction: column;
+row-gap: 10px;
+padding-left: 5px;
+padding-right: 5px;
+align-items: flex-start;
+font-size: 16px;
+color: #7f7c7c;
+}
+.p-Home.UtilityList {
+display: flex;
+font-size: 16px;
+padding-right: 5px;
+flex-direction: column;
+align-items: flex-start;
+row-gap: 10px;
+color: #7f7c7c;
+}
+.p-Home.Sponsors {
+padding-top: 75px;
+font-family: DM Sans;
+font-size: 21px;
+}
+.p-Home.SponsorFlex {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+row-gap: 20px;
+}
+.p-Home.SponsorFlex1 {
+display: flex;
+column-gap: 60px;
+padding-left: ;
+padding-right: ;
+}
+.p-Home.SponsorFlex2 {
+display: flex;
+padding-left: ;
+padding-right: ;
+column-gap: 60px;
+}
+.p-Home.SponsorFlex3 {
+display: flex;
+column-gap: 60px;
+padding-left: ;
+padding-right: ;
+}
+.p-Home.Logo {
+cursor: pointer;
+}
+.p-Home.Link3 {
+;
+}
+.p-Home.Link4 {
+;
+}
+.p-Home.Link5 {
+;
+}
+.p-Home.Link1 {
+;
+}
+.p-Home.Link2 {
+;
+}
+.p-Home.NavbarButton1 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.NavbarButton2 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.MenuIcon {
+display: inline-block;
+width: 24px;
+height: 24px;
+}
+.p-Home.HomeText1 {
+;
+}
+.p-Home.HomeText2 {
+color: #ff7629;
+}
+.p-Home.HomeText3 {
+font-size: 18px;
+color: #757575;
+width: 70%;
+}
+.p-Home.HomeButton1 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.HomeButton2 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.HomeImage {
+width: 400px;
+padding-top: 40px;
+padding-right: 40px;
+padding-left: 40px;
+padding-bottom: 40px;
+border-radius: 50px;
+position: relative;
+right: 200px;
+}
+.p-Home.CategoryMenuText {
+font-size: 25px;
+}
+.p-Home.CategoryMenuButton1 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.CategoryMenuButton2 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.CategoryImage1 {
+;
+}
+.p-Home.OptionName1 {
+font-size: 20px;
+}
+.p-Home.Description1 {
+width: 200px;
+padding-left: 30px;
+padding-right: 10px;
+color: #676767;
+}
+.p-Home.ExploreOption1 {
+color: #ff7629;
+}
+.p-Home.CategoryImage2 {
+;
+}
+.p-Home.OptionName2 {
+font-size: 20px;
+}
+.p-Home.Description2 {
+width: 200px;
+padding-left: 30px;
+padding-right: 10px;
+color: #676767;
+}
+.p-Home.ExploreOption2 {
+color: #ff7629;
+}
+.p-Home.CategoryImage3 {
+;
+}
+.p-Home.OptionName3 {
+font-size: 20px;
+}
+.p-Home.Description3 {
+width: 200px;
+padding-left: 30px;
+padding-right: 10px;
+color: #676767;
+}
+.p-Home.ExploreOption3 {
+color: #ff7629;
+}
+.p-Home.CategoryImage4 {
+;
+}
+.p-Home.OptionName4 {
+font-size: 20px;
+}
+.p-Home.Description4 {
+width: 200px;
+padding-left: 30px;
+padding-right: 10px;
+color: #676767;
+}
+.p-Home.ExploreOption4 {
+color: #ff7629;
+}
+.p-Home.AboutTextBox5 {
+font-size: 32px;
+color: #060606;
+}
+.p-Home.AboutTextBox6 {
+width: 80%;
+}
+.p-Home.AboutTextBox7 {
+width: 80%;
+}
+.p-Home.AboutButton1 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.AboutButton2 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.AboutImage1 {
+width: 460px;
+border-radius: 30px;
+position: static;
+}
+.p-Home.AboutTextBox1 {
+font-size: 20px;
+color: #08080c;
+}
+.p-Home.AboutImage2 {
+;
+}
+.p-Home.AboutTextBox2 {
+width: 50%;
+}
+.p-Home.AboutImage3 {
+;
+}
+.p-Home.AboutTextBox3 {
+width: ;
+}
+.p-Home.AboutImage4 {
+;
+}
+.p-Home.AboutTextBox4 {
+width: ;
+}
+.p-Home.MenuTextBox1 {
+font-size: 32px;
+}
+.p-Home.MenuTextBox2 {
+width: 50%;
+color: #727272;
+}
+.p-Home.MenuImage1 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+}
+.p-Home.ItemName1 {
+font-size: 24px;
+}
+.p-Home.ItemText1 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+text-align: center;
+font-size: ;
+color: #686868;
+}
+.p-Home.PriceText1 {
+;
+}
+.p-Home.MenuImage2 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+}
+.p-Home.ItemName2 {
+font-size: 24px;
+}
+.p-Home.ItemText2 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+}
+.p-Home.PriceText2 {
+;
+}
+.p-Home.MenuImage3 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+}
+.p-Home.ItemName3 {
+font-size: 24px;
+}
+.p-Home.ItemText3 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+}
+.p-Home.PriceText3 {
+;
+}
+.p-Home.MenuImage4 {
+width: 250px;
+height: 250px;
+border-width: 30px;
+}
+.p-Home.ItemName4 {
+font-size: 24px;
+}
+.p-Home.ItemText4 {
+color: #686868;
+max-height: 100px;
+height: 50px;
+width: 250px;
+}
+.p-Home.PriceText4 {
+;
+}
+.p-Home.MenuImage5 {
+width: 250px;
+height: 250px;
+border-width: ;
+border-radius: 30px;
+}
+.p-Home.ItemName5 {
+font-size: 24px;
+}
+.p-Home.ItemText5 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+}
+.p-Home.PriceText5 {
+;
+}
+.p-Home.MenuImage6 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+}
+.p-Home.ItemName6 {
+font-size: 24px;
+}
+.p-Home.ItemText6 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+}
+.p-Home.PriceText6 {
+;
+}
+.p-Home.MenuImage7 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+}
+.p-Home.ItemName7 {
+font-size: 24px;
+}
+.p-Home.ItemText7 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+}
+.p-Home.PriceText7 {
+;
+}
+.p-Home.MenuImage8 {
+width: 250px;
+height: 250px;
+border-radius: 30px;
+}
+.p-Home.ItemName8 {
+font-size: 24px;
+}
+.p-Home.ItemText8 {
+width: 250px;
+height: 50px;
+max-height: 100px;
+color: #686868;
+}
+.p-Home.PriceText8 {
+;
+}
+.p-Home.MenuButton2 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.MenuButton1 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.SpanImage1 {
+width: 50%;
+}
+.p-Home.SpanTextBox1 {
+width: ;
+max-width: 80%;
+font-family: DM Sans;
+font-size: 38px;
+color: #ffffff;
+}
+.p-Home.SpanTextBox2 {
+max-width: 80%;
+}
+.p-Home.SpanButton2 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.SpanButton1 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ffffff;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+}
+.p-Home.ClientsTextBox1 {
+;
+}
+.p-Home.ClientsTextBox2 {
+font-size: 32px;
+}
+.p-Home.ClientsTextBox3 {
+width: 50%;
+color: #727272;
+}
+.p-Home.Carousel1 {
+;
+}
+.p-Home.Carousel2 {
+;
+}
+.p-Home.Carousel3 {
+;
+}
+.p-Home.ClientsImage1 {
+width: 50px;
+height: 50px;
+background-color: #ff7629;
+border-radius: 50px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+}
+.p-Home.ClientsImage2 {
+width: 50px;
+height: 50px;
+padding-top: 5px;
+padding-left: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+border-radius: 50px;
+background-color: #ff7629;
+}
+.p-Home.ClientsImage3 {
+width: 150px;
+height: 30px;
+}
+.p-Home.lientsTextBox3 {
+font-size: 24px;
+width: ;
+border-color: #000000;
+}
+.p-Home.ClientsTextBox4 {
+font-size: 14px;
+color: #716f6f;
+}
+.p-Home.ClientsImage4 {
+width: 50px;
+height: 50px;
+border-radius: 50%;
+}
+.p-Home.ClientsTextBox5 {
+;
+}
+.p-Home.ClientsTextBox6 {
+color: #595858;
+}
+.p-Home.ClientsButton1 {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+outline-width: 0%;
+outline-style: none;
+align-self: center;
+}
+.p-Home.ClientsButton2 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+align-self: auto;
+outline-style: none;
+}
+.p-Home.MainHeading {
+font-size: 32px;
+}
+.p-Home.ArticlesLink {
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 20px;
+padding-left: 20px;
+background-color: #ffffff;
+}
+.p-Home.ArticleImage1 {
+width: 100%;
+height: 70%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+}
+.p-Home.ArticleDate1 {
+color: #737373;
+font-size: 15px;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 10px;
+}
+.p-Home.ArticleName1 {
+padding-left: 20px;
+padding-right: 10px;
+font-size: 26px;
+}
+.p-Home.ArticleText1 {
+padding-left: 20px;
+padding-bottom: 30px;
+padding-right: 10px;
+font-size: ;
+}
+.p-Home.ArticleImage2 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+}
+.p-Home.ArticleDate2 {
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 10px;
+font-size: ;
+color: #737373;
+}
+.p-Home.ArticleName2 {
+padding-left: 20px;
+padding-right: 10px;
+font-size: 16px;
+}
+.p-Home.ArticleImage3 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+}
+.p-Home.ArticleDate3 {
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 10px;
+color: #737373;
+}
+.p-Home.ArticleName3 {
+padding-left: 20px;
+padding-right: 10px;
+font-size: 16px;
+}
+.p-Home.ArticleImage4 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+}
+.p-Home.ArticleDate4 {
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 10px;
+color: #737373;
+}
+.p-Home.ArticleName4 {
+padding-left: 20px;
+padding-right: 10px;
+font-size: 16px;
+}
+.p-Home.ArticleImage5 {
+width: 100%;
+border-top-left-radius: 35px;
+border-top-right-radius: 35px;
+}
+.p-Home.ArticleDate5 {
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 10px;
+color: #737373;
+}
+.p-Home.ArticleName5 {
+padding-left: 20px;
+padding-right: 10px;
+font-size: 16px;
+}
+.p-Home.BookingText1 {
+font-size: 34px;
+}
+.p-Home.BookingText2 {
+font-size: 16px;
+color: #727171;
+width: 50%;
+}
+.p-Home.TextBox88 {
+color: #717070;
+}
+.p-Home.BookingImage1 {
+width: 30px;
+height: 30px;
+}
+.p-Home.TextBox89 {
+color: #717070;
+}
+.p-Home.BookingImage2 {
+width: 30px;
+height: 30px;
+}
+.p-Home.TextBox90 {
+color: #717070;
+}
+.p-Home.BookingImage3 {
+width: 30px;
+height: 30px;
+}
+.p-Home.BookingFormButton {
+color: #fff;
+background-color: #ff7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+width: 40%;
+}
+.p-Home.TextBoxNote {
+;
+}
+.p-Home.InputNote {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+align-self: center;
+height: 180px;
+width: 100%;
+}
+.p-Home.TextBoxDate {
+;
+}
+.p-Home.InputDate {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-Home.TextBoxSchedule {
+;
+}
+.p-Home.InputSchedule {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 2px;
+}
+.p-Home.TextBoxPhone {
+;
+}
+.p-Home.InputPhone {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-Home.TextBoxInput {
+;
+}
+.p-Home.InputLocation {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-Home.TextBoxName {
+;
+}
+.p-Home.InputName {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-Home.TextBoxEmail {
+;
+}
+.p-Home.InputEmail {
+box-sizing: border-box;
+font-variant: tabular-nums;
+font-feature-settings: tnum;
+padding-top: 11px;
+padding-left: 15px;
+padding-bottom: 11px;
+padding-right: 15px;
+color: #000000d9;
+font-size: 14px;
+background-color: #fff;
+background-image: none;
+border-width: 1px;
+border-style: solid;
+border-color: #d9d9d9;
+border-radius: 20px;
+}
+.p-Home.MessageTextBox {
+font-size: 15px;
+color: #23d124;
+}
+.p-Home.FollowTextBox1 {
+font-size: 32px;
+font-family: ;
+font-weight: 400;
+}
+.p-Home.FollowButton {
+color: #fff;
+background-color: #ff7629;
+padding-top: 15px;
+padding-left: 30px;
+padding-bottom: 15px;
+padding-right: 30px;
+font-size: 16px;
+border-radius: 35px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 0px;
+border-style: solid;
+border-color: #FF7629;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.FollowImg2 {
+width: 300px;
+height: 300px;
+border-radius: 35px;
+}
+.p-Home.FollowImg1 {
+width: 300px;
+height: 300px;
+border-radius: 35px;
+}
+.p-Home.FollowImage3 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-Home.FollowImage4 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-Home.Image6 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-Home.FollowImage6 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-Home.FooterLogoImage {
+width: 244px;
+height: 33px;
+}
+.p-Home.FooterTextBox1 {
+color: #6a6868;
+width: 100%;
+}
+.p-Home.RatingStar1 {
+width: 30px;
+height: 30px;
+}
+.p-Home.RatingStar2 {
+width: 30px;
+height: 30px;
+}
+.p-Home.RatingStar3 {
+width: 30px;
+height: 30px;
+}
+.p-Home.RatingStar5 {
+width: 30px;
+height: 30px;
+}
+.p-Home.RatingStar4 {
+width: 30px;
+height: 30px;
+}
+.p-Home.FooterTextBox2 {
+font-size: 20px;
+}
+.p-Home.Image54 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-Home.InstagramLink4 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-Home.InstagramLink1 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-Home.InstagramLink2 {
+width: 145px;
+height: 145px;
+border-radius: 25px;
+}
+.p-Home.PageHeading {
+padding-right: 40px;
+padding-bottom: 20px;
+font-size: 20px;
+color: #000000;
+}
+.p-Home.Page1 {
+;
+}
+.p-Home.Page2 {
+;
+}
+.p-Home.Page3 {
+;
+}
+.p-Home.Page4 {
+;
+}
+.p-Home.Page5 {
+;
+}
+.p-Home.Page6 {
+;
+}
+.p-Home.Page7 {
+;
+}
+.p-Home.UtilityHeading {
+padding-bottom: 20px;
+padding-right: 40px;
+font-size: 20px;
+color: #000000;
+}
+.p-Home.Utility5 {
+;
+}
+.p-Home.Utility6 {
+;
+}
+.p-Home.Utility7 {
+;
+}
+.p-Home.Utility4 {
+;
+}
+.p-Home.Utility1 {
+;
+}
+.p-Home.Utility3 {
+;
+}
+.p-Home.Utility2 {
+;
+}
+.p-Home.SponsorText {
+;
+}
+.p-Home.SponsorImage1 {
+width: 200px;
+}
+.p-Home.SponsorImage2 {
+width: 200px;
+}
+.p-Home.SponsorImage4 {
+width: ;
+}
+.p-Home.SponsorImage3 {
+width: ;
+}
